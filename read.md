@@ -9,7 +9,7 @@ There are many reasons that a computer may want to notify you of things not dire
 
 2. Functionality
 
- In this project, we able to create a python application i,e a desktop notififier app which track COVID 19 LIVE DATA of our country INDIA on our PC.
+In this project, we able to create a python application i,e a desktop notififier app which track COVID 19 LIVE DATA of our country INDIA on our PC.
 
 
 The data taken by this application is from the website:- "https://www.worldometers.info/coronavirus/country/india/"   through requests module methods which is then scrapped and parsed by beautifulsoup module , later a GUI is made with the help of TKINTER module and a notification is created through plyer module and lastly to make to create threads so that both applications(GUI +NOTIFIC.) get stop when we don’t require them any more.
